@@ -1,0 +1,21 @@
+.Fullpage{
+   background-size: cover;
+    /* background-color:rgb(203, 230, 177); */
+    
+   
+}
+
+.form-group5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+ 
+    
+  }
+.form-group2{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 25px;
+   
+}
